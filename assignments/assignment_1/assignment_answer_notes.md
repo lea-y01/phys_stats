@@ -37,3 +37,8 @@ This feels also hard to answer definitively, as the plots seem to all change a l
 
 I now realize this might have to do with the observations, which still does not feel completely intuitive given that these are absolute measurements being derived from observations made with the same instrument. 
 
+
+
+for dispersion question: 
+
+Now looking back, I am better recognizing the relationship between the tightness of clustering and the dispersion of proper motion; based on the fact that Trumpler_20 (4th cluster plot) was the most clustered at least in Declination (y axis of DEdeg vs. RAdeg), and the pmDE dispersion was minimized (range of ~0.5, bottom right histogram), I predict that the proper motion dispersion, compared to the previous plots, should decrease given that standard deviations of RA and Dec have been minimized; but it should remain constant in the plots I now produce. 
