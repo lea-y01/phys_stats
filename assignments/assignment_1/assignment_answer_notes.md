@@ -46,3 +46,5 @@ Now looking back, I am better recognizing the relationship between the tightness
 greater than mean RA parallax mean = 0.299
 less than mean RA parallax mean = 0.325 
 difference is |0.325 - 0.299| = 0.026
+
+Comparing between the histograms for Gmag, I see that in the RA-separated, hte magnitude 
